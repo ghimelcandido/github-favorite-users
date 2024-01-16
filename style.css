@@ -17,7 +17,7 @@
 body {
   font-size: 1.6rem;
   color: var(--text-color);
-  background-color: rgb(250, 254, 255);
+  background-color: rgb(28, 146, 175);
 }
 
 body * {
@@ -145,8 +145,9 @@ td.user a p {
 }
 
 td .remove {
+  cursor: pointer;
   background: none;
   border: none;
-
   color: red;
+
 }
